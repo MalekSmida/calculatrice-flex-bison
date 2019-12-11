@@ -1,0 +1,6 @@
+projet.y:67.26-45: error: symbol list_identificateurs is used, but is not defined as a token and has no rules
+ 
+			|list_identificateurs PP type PV
+ 
+                         ^^^^^^^^^^^^^^^^^^^^
+
